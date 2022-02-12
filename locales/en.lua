@@ -213,6 +213,7 @@ local Translations = {
         ["report_toggle"] = "Toggle Incoming Reports (Admin Only)",
         ["kick_all"] = "Kick all players",
         ["ammo_amount_set"] = "Set Your Ammo Amount (Admin Only)",
+        ["testing_github"] = "Testing Github(learning for myself)"
     }
 }
 
